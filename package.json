@@ -1,6 +1,6 @@
 {
    "name": "tinhnhanh",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Thư viện giúp học sinh tính nhanh khi giải toán",
    "main": "index.js",
    "scripts": {
